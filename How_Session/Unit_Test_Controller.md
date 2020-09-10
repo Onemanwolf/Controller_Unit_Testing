@@ -47,15 +47,17 @@ What are the single responsiblities of each of these elements in MVC
 
 ![Layering of Domain Driven Design](https://github.com/Onemanwolf/Controller_Unit_Testing/blob/master/How_Session/images/DDDLayers.png?raw=true 'Request Pipeline')
 
-Patterns, Principles and Practices of Domain Driven Design
-![Scott Millet with Nick Tune](https://github.com/Onemanwolf/Controller_Unit_Testing/blob/master/How_Session/images/MVCDDD.png?raw=true 'Request Pipeline')
 
-Domain Module or Domain Driven Design is a good example to follow.
+
+Domain Model or Domain Driven Design is a good example to follow.
 
 Domain Model for example Orders Domain will have all business logic factories/builders all code will reference the Domain model to get DTO, Models and Validation from the Domain Model.
 
-- We can place services to build the model or to implement the model to build the ViewModel or View.
+- We can place Application services to build the model or to implement the model to build the ViewModel or View by retrieving data we need from Repository and getting domain object form Domain layer.
 
+
+Patterns, Principles and Practices of Domain Driven Design by Scott Millet with Nick Tune.
+![Scott Millet with Nick Tune](https://github.com/Onemanwolf/Controller_Unit_Testing/blob/master/How_Session/images/MVCDDD.png?raw=true 'Request Pipeline')
 ## Getting Started exercise
 
 To demonstrate controller unit tests, review the following controller in the sample app.
