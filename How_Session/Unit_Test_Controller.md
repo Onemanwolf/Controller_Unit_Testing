@@ -56,8 +56,12 @@ Domain Model for example Orders Domain will have all business logic factories/bu
 - We can place Application services to build the model or to implement the model to build the ViewModel or View by retrieving data we need from Repository and getting domain object form Domain layer.
 
 
-Patterns, Principles and Practices of Domain Driven Design by Scott Millet with Nick Tune.
+### Patterns, Principles and Practices of Domain Driven Design by Scott Millet with Nick Tune.
 ![Scott Millet with Nick Tune](https://github.com/Onemanwolf/Controller_Unit_Testing/blob/master/How_Session/images/MVCDDD.png?raw=true 'Request Pipeline')
+
+
+### Layers Detail.
+![Scott Millet with Nick Tune](https://github.com/Onemanwolf/Controller_Unit_Testing/blob/master/How_Session/images/OnionLayersDetail.png?raw=true 'Request Pipeline')
 ## Getting Started exercise
 
 To demonstrate controller unit tests, review the following controller in the sample app.
