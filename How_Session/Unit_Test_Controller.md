@@ -43,7 +43,12 @@ What are the single responsiblities of each of these elements in MVC
 
 [Martin Fowler Domain Model](https://martinfowler.com/eaaCatalog/domainModel.html)
 
+### Layering Domain Driven Design
 
+![Layering of Domain Driven Design](https://github.com/Onemanwolf/Controller_Unit_Testing/blob/master/How_Session/images/DDDLayers.png?raw=true 'Request Pipeline')
+
+Patterns, Principles and Practices of Domain Driven Design
+![Scott Millet with Nick Tune](https://github.com/Onemanwolf/Controller_Unit_Testing/blob/master/How_Session/images/MVCDDD.png?raw=true 'Request Pipeline')
 
 Domain Module or Domain Driven Design is a good example to follow.
 
