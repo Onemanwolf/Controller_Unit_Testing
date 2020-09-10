@@ -61,7 +61,7 @@ Domain Model for example Orders Domain will have all business logic factories/bu
 
 
 ### Layers Detail.
-![Scott Millet with Nick Tune](https://github.com/Onemanwolf/Controller_Unit_Testing/blob/master/How_Session/images/OnionLayersDetail.png?raw=true 'Request Pipeline')
+![Scott Millet with Nick Tune](https://github.com/Onemanwolf/Controller_Unit_Testing/blob/master/How_Session/images/OnionLayersDetail1.png?raw=true 'Request Pipeline')
 ## Getting Started exercise
 
 To demonstrate controller unit tests, review the following controller in the sample app.
