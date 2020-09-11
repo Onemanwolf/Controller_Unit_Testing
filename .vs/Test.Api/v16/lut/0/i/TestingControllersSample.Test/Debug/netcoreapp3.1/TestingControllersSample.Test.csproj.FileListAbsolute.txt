@@ -1,0 +1,17 @@
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Views.dll
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Views.pdb
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.exe
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.deps.json
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.runtimeconfig.json
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.runtimeconfig.dev.json
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.dll
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\i\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.csprojAssemblyReference.cache
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\i\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.AssemblyInfoInputs.cache
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\i\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.AssemblyInfo.cs
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\i\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.csproj.CopyComplete
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\i\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.dll
+C:\Controller_Unit_Test\.vs\Test.Api\v16\lut\0\i\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.genruntimeconfig.cache
